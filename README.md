@@ -1,49 +1,75 @@
-Tugas Halaman Biodata HTML - Taufik Hidayat NST
-Ini adalah proyek tugas sederhana untuk membuat halaman biodata pribadi. Proyek ini dibuat sepenuhnya hanya dengan menggunakan HTML murni tanpa tambahan CSS, sesuai dengan tujuan untuk mempraktikkan penggunaan tag-tag dasar HTML.
+<div align="center">
 
-📜 Deskripsi Proyek
-Halaman ini adalah representasi digital dari biodata saya, Taufik Hidayat NST, seorang mahasiswa Teknik Informatika di Institut Teknologi Sumatera. Halaman ini berisi paragraf perkenalan, data diri dalam format tabel, riwayat pendidikan, daftar film favorit, dan tautan untuk menghubungi saya.
+👋 Biodata Diri HTML Sederhana
+<br>
 
-Seluruh struktur dan konten dibangun menggunakan elemen-elemen HTML5 untuk memastikan konten terstruktur dengan baik meskipun tanpa styling visual.
+<p>Sebuah proyek tugas untuk mendemonstrasikan pembuatan halaman web biodata pribadi yang informatif dan terstruktur dengan menggunakan <strong>HTML murni</strong> tanpa CSS.</p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/Made%20for-ITERA-blue?style=for-the-badge" alt="Made for ITERA">
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
+</p>
+
+</div>
 
 🖼️ Tampilan Halaman
-Untuk mendapatkan hasil terbaik, unggah screenshot halaman web Anda ke repositori ini dan ganti URL_SCREENSHOT_ANDA.png di bawah dengan nama filenya.
+<details>
+<summary><b>Klik untuk melihat pratinjau</b></summary>
+<br>
+<p align="center">
+<!-- UNGGAH SCREENSHOT KE REPOSITORI ANDA DAN GANTI NAMA FILE DI BAWAH -->
+<img src="screenshot-biodata.png" alt="Tampilan Halaman Biodata" width="80%">
+</p>
+</details>
 
-✨ Fitur-Fitur
-Berdasarkan kode yang ada, halaman ini memiliki beberapa bagian:
+✨ Fitur Utama
+Proyek ini, meskipun sederhana, mencakup beberapa elemen fundamental HTML:
 
-Header dan Foto Profil: Judul "BIODATA DIRI" yang jelas dengan foto profil di tengah halaman.
+✅ Paragraf Perkenalan: Deskripsi singkat mengenai latar belakang dan minat.
 
-Paragraf Perkenalan: Deskripsi singkat tentang diri saya, latar belakang pendidikan, dan minat di bidang teknologi.
+✅ Tabel Informasi: Biodata ringkas disajikan dalam <table> agar rapi.
 
-Tabel Biodata: Informasi ringkas disajikan dalam tabel (<table>) yang mencakup:
+✅ Daftar Riwayat & Favorit: Menggunakan Unordered List (<ul>) untuk riwayat pendidikan dan Ordered List (<ol>) untuk daftar film favorit.
 
-Nama Lengkap
+✅ Integrasi Media: Menampilkan foto profil (<img>) dan tautan eksternal (<a>) ke media sosial.
 
-Umur
-
-Alamat
-
-Hobi
-
-Jenjang Pendidikan Saat Ini
-
-Keahlian Teknis
-
-Riwayat Hidup: Riwayat pendidikan dari SMP hingga Perguruan Tinggi disajikan dalam format daftar tidak berurutan (<ul>).
-
-Daftar Film Favorit: Daftar 10 film favorit dari sutradara Christopher Nolan yang disajikan dalam format daftar berurutan (<ol>).
-
-Kontak: Tautan aktif (<a>) yang mengarah langsung ke profil WhatsApp dan Instagram.
+✅ Struktur Semantik: Penggunaan tag seperti <hr>, <h3>, dan <center> untuk menata konten secara visual tanpa CSS.
 
 🛠️ Teknologi yang Digunakan
-HTML5
+Proyek ini dibangun sepenuhnya dengan teknologi dasar web:
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+</p>
 
 🚀 Cara Menjalankan
-Proyek ini sangat mudah untuk dijalankan karena tidak memiliki dependensi eksternal.
+Tidak ada proses instalasi yang diperlukan. Cukup ikuti langkah-langkah ini:
 
-Clone atau unduh repositori ini ke komputer lokal Anda.
+Clone atau Unduh Repositori
 
-Pastikan file gambar foto_respect.JPG berada di dalam direktori (folder) yang sama dengan file HTML Anda.
+git clone https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git
 
-Buka file index.html (atau nama file HTML Anda) menggunakan peramban web apa pun (misalnya Google Chrome, Firefox, Safari).
+Navigasi ke Direktori
+
+cd NAMA_REPO_ANDA
+
+Buka File HTML
+
+Buka file index.html (atau nama file HTML utama Anda) langsung di peramban web favorit Anda.
+
+Pastikan file gambar foto_respect.JPG berada di folder yang sama.
+
+👤 Hubungi Saya
+Mari terhubung!
+
+<p align="left">
+<a href="https://wa.me/6289517954410" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
+</a>
+<a href="https://www.instagram.com/thnst95/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
+</p>
