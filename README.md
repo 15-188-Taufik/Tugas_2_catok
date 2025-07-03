@@ -25,11 +25,11 @@ Proyek ini, meskipun sederhana, mencakup beberapa elemen fundamental HTML:
 
 ✅ Tabel Informasi: Biodata ringkas disajikan dalam <table> agar rapi.
 
-✅ Daftar Riwayat & Favorit: Menggunakan Unordered List (<ul>) untuk riwayat pendidikan dan Ordered List (<ol>) untuk daftar film favorit.
+✅ Daftar Riwayat & Favorit: Menggunakan Unordered List untuk riwayat pendidikan dan Ordered List untuk daftar film favorit.
 
 ✅ Integrasi Media: Menampilkan foto profil (<img>) dan tautan eksternal (<a>) ke media sosial.
 
-✅ Struktur Semantik: Penggunaan tag seperti <hr>, <h3>, dan <center> untuk menata konten secara visual tanpa CSS.
+✅ Struktur Semantik: Penggunaan tag seperti hr, h3, dan center untuk menata konten secara visual tanpa CSS.
 
 🛠️ Teknologi yang Digunakan
 Proyek ini dibangun sepenuhnya dengan teknologi dasar web:
