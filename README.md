@@ -19,7 +19,7 @@
 <br>
 <p align="center">
 <!-- UNGGAH SCREENSHOT KE REPOSITORI ANDA DAN GANTI NAMA FILE DI BAWAH -->
-<img src="https://15-188-taufik.github.io/Tugas_2_catok" alt="Tampilan Halaman Biodata" width="80%">
+<img src="https://15-188-taufik.github.io/Tugas_2_catok/" alt="Tampilan Halaman Biodata" width="80%">
 </p>
 </details>
 
