@@ -13,15 +13,10 @@
 
 </div>
 
-🖼️ Tampilan Halaman
-<details>
-<summary><b>Klik untuk melihat pratinjau</b></summary>
-<br>
-<p align="center">
-<!-- UNGGAH SCREENSHOT KE REPOSITORI ANDA DAN GANTI NAMA FILE DI BAWAH -->
-<img src="https://15-188-taufik.github.io/Tugas_2_catok/" alt="Tampilan Halaman Biodata" width="80%">
-</p>
-</details>
+🖼️ Tampilan Halaman & Tautan Langsung
+<details> <summary><b>Klik gambar untuk mengunjungi halaman web</b></summary> <br> <p align="center">
+
+ <a href="https://15-188-taufik.github.io/Tugas_2_catok/" target="_blank"> <img src="screenshot-biodata.jpeg" alt="Tampilan Halaman Biodata" width="80%"> </a> </p> </details>
 
 ✨ Fitur Utama
 Proyek ini, meskipun sederhana, mencakup beberapa elemen fundamental HTML:
