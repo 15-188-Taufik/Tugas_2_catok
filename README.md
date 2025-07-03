@@ -14,9 +14,11 @@
 </div>
 
 🖼️ Tampilan Halaman & Tautan Langsung
-<details> <summary><b>Klik gambar untuk mengunjungi halaman web</b></summary> <br> <p align="center">
-
- <a href="https://15-188-taufik.github.io/Tugas_2_catok_-HTML-/" target="_blank"> <img src="screenshot-biodata.png" alt="Tampilan Halaman Biodata" width="80%"> </a> </p> </details>
+<details>
+<summary><b>Klik gambar untuk mengunjungi halaman web</b></summary>
+<br>
+<p align="center">
+<a href="https://15-188-taufik.github.io/Tugas_2_catok_-HTML-/" target="_blank">  <img src="screenshot-biodata.png" alt="Tampilan Halaman Biodata" width="80%"> </a> </p> </details>
 
 ✨ Fitur Utama
 Proyek ini, meskipun sederhana, mencakup beberapa elemen fundamental HTML:
@@ -25,9 +27,9 @@ Proyek ini, meskipun sederhana, mencakup beberapa elemen fundamental HTML:
 
 ✅ Tabel Informasi: Biodata ringkas disajikan dalam <table> agar rapi.
 
-✅ Daftar Riwayat & Favorit: Menggunakan Unordered List untuk riwayat pendidikan dan Ordered List untuk daftar film favorit.
+✅ Daftar Riwayat & Favorit: Menggunakan Unordered List (ul) untuk riwayat pendidikan dan Ordered List (ol) untuk daftar film favorit.
 
-✅ Integrasi Media: Menampilkan foto profil (<img>) dan tautan eksternal (<a>) ke media sosial.
+✅ Integrasi Media: Menampilkan foto profil (img) dan tautan eksternal (a) ke media sosial.
 
 ✅ Struktur Semantik: Penggunaan tag seperti hr, h3, dan center untuk menata konten secara visual tanpa CSS.
 
@@ -45,11 +47,11 @@ Tidak ada proses instalasi yang diperlukan. Cukup ikuti langkah-langkah ini:
 
 Clone atau Unduh Repositori
 
-git clone https://15-188-taufik.github.io/Tugas_2_catok_-HTML-/.git
+git clone https://github.com/15-188-taufik/Tugas_2_catok_-HTML-.git
 
 Navigasi ke Direktori
 
-cd NAMA_REPO_ANDA
+cd Tugas_2_catok_-HTML-
 
 Buka File HTML
 
