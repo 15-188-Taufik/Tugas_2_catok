@@ -45,11 +45,11 @@ Proyek ini dibangun sepenuhnya dengan teknologi dasar web:
 🚀 Cara Menjalankan
 Tidak ada proses instalasi yang diperlukan. Cukup ikuti langkah-langkah ini:
 
-Clone atau Unduh Repositori
+1. Clone atau Unduh Repositori
 
 git clone https://github.com/15-188-taufik/Tugas_2_catok_-HTML-.git
 
-Navigasi ke Direktori
+2. Navigasi ke Direktori
 
 cd Tugas_2_catok_-HTML-
 
