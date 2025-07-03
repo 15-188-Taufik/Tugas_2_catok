@@ -45,7 +45,7 @@ Tidak ada proses instalasi yang diperlukan. Cukup ikuti langkah-langkah ini:
 
 Clone atau Unduh Repositori
 
-git clone https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git
+git clone https://15-188-taufik.github.io/Tugas_2_catok_-HTML-/.git
 
 Navigasi ke Direktori
 
